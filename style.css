@@ -1,0 +1,31 @@
+.navbar {
+    margin-right: 10px;
+    font-size: 20px; 
+    padding: 5px;  
+    background: #93d7bd81;;
+    text-decoration: #93d7bd81;
+ }
+ .img {
+     height: 400px;
+     margin-left: 500px;
+ }
+ 
+ .info {
+     font-size: 20px;
+     padding: 5px;
+     background-color: #93d7bd81;
+ }
+ .video {
+     margin-left: 500px;
+     align-items: center;
+ }
+ 
+ .img2 {
+     height: 400px;
+     margin-left: 300px;
+ }
+ .footer {
+     font-size: 20px;
+     padding: 5px;
+     margin-left: 600px;
+ }
